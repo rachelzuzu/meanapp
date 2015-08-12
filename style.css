@@ -1,0 +1,24 @@
+body {
+	font-family: sans-serif;
+	font-color: #686b6e;
+	background-color: white;
+}
+.jumbotron {
+	color: white;
+	background-color: #4a5155;
+	/*background-color: #A9A9A9;*/
+}
+.btn {
+	background-color: white;
+	border: clear;
+	font-weight: 700;
+	color: #4a5155;
+}
+.label {
+	color: #00BD7E;
+	background-color: white;
+}
+.form-control {
+	color: black;
+	font-weight: 200;
+}
